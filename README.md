@@ -1,4 +1,4 @@
 # hello-world
 
-ok~this is my first repository.
-I don't konw how to do to edit well.
+22 Aug.2020
+It's a truly lucky man who knows what he wants to do in this world.
